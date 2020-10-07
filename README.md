@@ -1,7 +1,7 @@
 # World Wide Time Using API
 
 A flutter project with beautifull ui that shows time based on different continents and change backgrounf of app according to the time is day or night.
-![Screenshot](images/day.png)
+
 
 ## Getting Started
 
